@@ -9,6 +9,7 @@ usage:
 
 """
 
+import argparse
 from dataclasses import dataclass
 import sys
 from pathlib import Path
@@ -44,8 +45,20 @@ class Part:
     color: Color
     qty: int
 
-    def as_brick_link(self):
-        return f"<ITEM><ITEMTYPE>P</ITEMTYPE><ITEMID>{self.part_no}</ITEMID><COLOR>{self.color.bl_id}</COLOR><QTYFILLED>{self.qty}</QTYFILLED></ITEM>\n"
+    def as_brick_link(self, wishlist: bool = False, ignore_color: bool = False):
+        return "".join(
+            [
+                "<ITEM><ITEMTYPE>P</ITEMTYPE>",
+                f"<ITEMID>{self.part_no}</ITEMID>",
+                ("" if ignore_color else f"<COLOR>{self.color.bl_id}</COLOR>"),
+                (
+                    f"<MINQTY>{self.qty}</MINQTY>"
+                    if wishlist
+                    else "<QTYFILLED>{self.qty}</QTYFILLED>"
+                ),
+                "</ITEM>\n",
+            ]
+        )
 
     def __eq__(self, __o: "Part") -> bool:
         return self.part_no == __o.part_no and self.color.bl_id == __o.color.bl_id
@@ -102,7 +115,9 @@ class BrickOwl:
             return _part_no
 
 
-def main(infile: Path, outfile: Path):
+def main(
+    infile: Path, outfile: Path, wishlist: bool = False, ignore_color: bool = False
+):
     bo = BrickOwl()
 
     parts = {}
@@ -121,9 +136,39 @@ def main(infile: Path, outfile: Path):
 
     with outfile.open("w") as studio_xml:
         studio_xml.write("<INVENTORY>\n")
-        studio_xml.writelines(part.as_brick_link() for part in parts.values())
+        studio_xml.writelines(
+            part.as_brick_link(wishlist, ignore_color) for part in parts.values()
+        )
         studio_xml.write("</INVENTORY>\n")
 
 
 if __name__ == "__main__":
-    main(Path(sys.argv[1]), Path(sys.argv[2]))
+    parser = argparse.ArgumentParser(description="BrickOwl CSV to BrickLink XML")
+    parser.add_argument(
+        "owl",
+        type=str,
+        help="BrickOwl CSV",
+    )
+    parser.add_argument(
+        "link",
+        type=str,
+        help="BrickLink XML to write",
+    )
+    parser.add_argument(
+        "--wishlist",
+        action="store_true",
+        help="Write as BL wishlist XML (rather than Stud.io part list)",
+    )
+    parser.add_argument(
+        "--ignore-color",
+        action="store_true",
+        help="Ignore colors",
+    )
+    args = parser.parse_args()
+
+    main(
+        Path(args.owl),
+        Path(args.link),
+        wishlist=args.wishlist,
+        ignore_color=args.ignore_color,
+    )
