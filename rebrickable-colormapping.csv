@@ -1,0 +1,235 @@
+Img,ID,Name,RGB,Num Parts,Num Sets,First Year,Last Year,LEGO,LDraw,BrickLink,BrickOwl
+000005 575857,148,Pearl Dark Gray,575857,5288,2415,2001,2022,"316 ['Titanium Metallic', 'TITAN. METAL.']
+148 ['Mettalic Dark Grey', 'MET.DK.GREY']","148 ['Pearl_Dark_Gray']
+87 ['Metallic_Dark_Gray']",77 ['Pearl Dark Gray'],119 ['Pearl Dark Gray']
+000006 6C6E68,72,Dark Bluish Gray,6C6E68,235676,68845,1999,2022,"199 ['Dark stone grey', 'DK. ST. GREY']",72 ['Dark_Bluish_Gray'],85 ['Dark Bluish Gray'],50 ['Dark Stone Gray']
+000006 6C6E68,76,Speckle DBGray-Silver,6C6E68,12,9,2006,2006,,76 ['Speckle_Dark_Bluish_Gray_Silver'],117 ['Speckle DBGray-Silver'],134 ['Speckle Gray']
+000007 737271,1085,Two-tone Silver,737271,4,4,2002,2002,179 ['Silver Flip/Flop'],,,
+000008 898788,179,Flat Silver,898788,17117,6424,1998,2022,"315 ['Silver Metallic', 'SILVER MET.']",179 ['Flat_Silver'],95 ['Flat Silver'],117 ['Flat Silver']
+000009 9C9C9C,1041,Modulex Foil Light Gray,9C9C9C,0,0,,,,,211 ['Mx Foil Light Gray'],
+000009 9C9C9C,1015,Modulex Light Gray,9C9C9C,2246,59,1963,1963,,,125 ['Mx Light Gray'],
+00000a A0A5A9,71,Light Bluish Gray,A0A5A9,333579,88552,1999,2022,"194 ['Medium stone grey', 'MED. ST-GREY']",71 ['Light_Bluish_Gray'],86 ['Light Bluish Gray'],64 ['Medium Stone Gray']
+00000a ABADAC,150,Pearl Very Light Gray,ABADAC,17,16,2002,2003,,150 ['Pearl_Very_Light_Grey'],119 ['Pearl Very Light Gray'],27 ['Pearl Very Light Gray']
+00000d D9D9D9,1000,Glow in Dark White,D9D9D9,455,127,2004,2022,329 ['WHITE GLOW'],329 ['Glow_In_Dark_White'],159 ['Glow in Dark White'],129 ['Glow in the Dark White']
+00000e E6E3E0,151,Very Light Bluish Gray,E6E3E0,256,132,2000,2013,"208 ['Light stone grey', 'LGH. ST. GREY']",151 ['Very_Light_Bluish_Gray'],99 ['Very Light Bluish Gray'],90 ['Light Stone Gray']
+00000e E0E0E0,383,Chrome Silver,E0E0E0,1298,609,1977,2020,309 ['Metalized Silver'],383 ['Chrome_Silver'],22 ['Chrome Silver'],115 ['Chrome Silver']
+00000f FFFFFF,117,Glitter Trans-Clear,FFFFFF,109,32,1999,2022,"117 ['Transparent Glitter', 'TR.W.GLITTER']",117 ['Glitter_Trans_Clear'],101 ['Glitter Trans-Clear'],131 ['Transparent Glitter']
+00000f FFFFFF,15,White,FFFFFF,348405,103757,1949,2022,1 ['White'],15 ['White'],1 ['White'],92 ['White']
+00000f FFFFFF,79,Milky White,FFFFFF,224,146,1963,2008,20 ['Nature'],79 ['Milky_White'],60 ['Milky White'],130 ['Translucent White']
+00000f FFFFFF,1039,Modulex Clear,FFFFFF,1395,72,1963,1963,,,149 ['Mx Clear'],
+00000f F4F4F4,1013,Modulex White,F4F4F4,2983,743,1963,1963,,,123 ['Mx White'],
+00000f F2F3F2,183,Pearl White,F2F3F2,50,23,2003,2006,"183 ['Metallic White', 'MET. WHITE']",183 ['Pearl_White'],83 ['Pearl White'],123 ['Pearlescent']
+00000f FCFCFC,1055,Trans-Clear Opal,FCFCFC,110,29,2020,2022,"360 ['Transparent with Opalescence', 'Tr. Opalescence']",360 ['Opal_Trans_Clear'],228 ['Satin White'],193 ['Transparent Opal']
+00000f FCFCFC,47,Trans-Clear,FCFCFC,32099,10408,1954,2022,"40 ['Transparent', 'TR.']",47 ['Trans_Clear'],12 ['Trans-Clear'],97 ['Transparent']
+002a06 635F52,40,Trans-Black,635F52,7733,2744,1999,2022,"111 ['Tr. Brown', 'TR.BROWN']",40 ['Trans_Black'],13 ['Trans-Black'],95 ['Transparent Black']
+002a06 6B5A5A,1017,Modulex Tile Gray,6B5A5A,219,219,1963,1963,,,127 ['Mx Tile Gray'],
+002a06 635F52,32,Trans-Black IR Lens,635F52,0,0,,,,32 ['Trans_Black_IR_Lens'],,
+00330f FECCCF,77,Light Pink,FECCCF,13,12,1994,2007,"223 ['Light Pink']
+17 ['Rose']",77 ['Light_Pink'],56 ['Light Pink'],68 ['Light Pink']
+00440f FEBABD,100,Light Salmon,FEBABD,171,106,1997,1999,100 ['Light red'],100 ['Light_Salmon'],26 ['Light Salmon'],5 ['Light Salmon']
+00760d D67572,335,Sand Red,D67572,589,49,2001,2004,153 ['Sand red'],335 ['Sand_Red'],58 ['Sand Red'],87 ['Sand Red']
+00d10b B52C20,1023,Modulex Red,B52C20,25,25,1963,1963,,,129 ['Mx Red'],
+00ff03 330000,1019,Modulex Tile Brown,330000,158,158,1963,1963,,,131 ['Mx Tile Brown'],
+00ff07 720E0F,320,Dark Red,720E0F,30796,7675,2001,2022,"154 ['Dark red', 'NEW DARK RED', '10. MULTI']",320 ['Dark_Red'],59 ['Dark Red'],56 ['Dark Red']
+00ff08 8B0000,1047,Modulex Foil Red,8B0000,0,0,,,,,217 ['Mx Foil Red'],
+04ff0c C91A09,4,Red,C91A09,235297,71387,1949,2022,"21 ['Bright red', 'BR.RED']",4 ['Red'],5 ['Red'],81 ['Red']
+04ff0c C91A09,36,Trans-Red,C91A09,16650,5827,1969,2022,"41 ['Tr. Red', 'TR.RED']",36 ['Trans_Red'],17 ['Trans-Red'],108 ['Transparent Red']
+04ff0c CA1F08,1010,Vintage Red,CA1F08,31,8,1949,1949,,,,
+04bb0f F45C40,1024,Modulex Pink Red,F45C40,7,7,1963,1963,,,130 ['Mx Pink Red'],
+04ff0b B31004,216,Rust,B31004,21,15,1991,2001,,216 ['Rust'],27 ['Rust'],83 ['Rust']
+06df08 872B17,1081,Rust Orange,872B17,1,1,2004,2004,216 ['Rust'],,,
+08c80e EE5434,1068,Reddish Orange,EE5434,16,13,2003,2004,123 ['Bright Reddish Orange'],,231 ['Dark Salmon'],158 ['Reddish Orange']
+088e09 945148,1083,Two-tone Copper,945148,2,2,2001,2001,176 ['Red Flip/Flop'],,,
+08aa0f F2705E,12,Salmon,F2705E,185,115,1997,2000,4 ['Brick Red'],12 ['Salmon'],25 ['Salmon'],84 ['Salmon']
+0bcc05 582A12,70,Reddish Brown,582A12,93380,27188,2000,2022,"192 ['Reddish Brown', 'RED. BROWN']",70 ['Reddish_Brown'],88 ['Reddish Brown'],82 ['Reddish Brown']
+0e8b0b B67B50,450,Fabuland Brown,B67B50,60,46,1979,1997,12 ['Light Orange Brown'],450 ['Fabuland_Brown'],106 ['Fabuland Brown'],23 ['Fabuland Brown']
+0e9905 583927,1056,Trans-Brown Opal,583927,120,13,2020,2021,"360 ['Transparent Brown with Opalescence', 'Tr. Brown Opal']",,229 ['Satin Trans-Black'],201 ['Transparent Black Opal']
+0e9905 583927,6,Brown,583927,9364,3750,1974,2006,"217 ['Brown']
+25 ['Earth Orange', 'EARTH-ORA']",6 ['Brown'],8 ['Brown'],46 ['Brown']
+0e9905 57392C,1072,Pearl Brown,57392C,34,16,2003,2006,"187 ['Sand Yellow Metallic', 'MET. EAR.ORA']",,,
+0e990a AD6140,1067,Dark Nougat,AD6140,10,10,2001,2004,"128 ['Dark Nougat', 'DARK NOUGAT']",128 ['Dark_Nougat'],225 ['Dark Nougat'],
+0ecc0f F47B30,1025,Modulex Orange,F47B30,25,24,1963,1963,,,135 ['Mx Orange'],
+11800a AA7D55,84,Medium Nougat,AA7D55,14603,4207,2000,2022,"312 ['Medium Nougat', 'M. NOUGAT']",84 ['Medium_Dark_Flesh'],150 ['Medium Nougat'],74 ['Medium Dark Flesh']
+11800a AE7A59,134,Copper,AE7A59,237,84,2003,2012,"139 ['Copper', 'RED. GOLD']
+1016 ['COPPER INK']
+134 ['COPPER, DR.LA.']",134 ['Copper'],84 ['Copper'],116 ['Copper']
+12890d D09168,92,Nougat,D09168,783,556,1979,2022,18 ['Nougat'],92 ['Flesh'],28 ['Nougat'],6 ['Flesh']
+12b20a AB673A,1084,Two-tone Gold,AB673A,8,8,2002,2002,178 ['Yellow Flip/Flop'],,,
+13990f F7AD63,1049,Modulex Foil Orange,F7AD63,0,0,,,,,219 ['Mx Foil Orange'],
+13990f F7AD63,1026,Modulex Light Orange,F7AD63,7,7,1963,1963,,,136 ['Mx Light Orange'],
+153909 958A73,28,Dark Tan,958A73,33490,8017,2001,2022,138 ['Sand yellow'],28 ['Dark_Tan'],69 ['Dark Tan'],57 ['Dark Tan']
+15440f F6D7B3,78,Light Nougat,F6D7B3,4608,3638,1997,2022,"283 ['Light Nougat', 'L.NOUGAT']",78 ['Light_Flesh'],90 ['Light Nougat'],65 ['Light Flesh']
+155506 645A4C,60,Chrome Antique Brass,645A4C,33,16,2001,2005,,60 ['Chrome_Antique_Brass'],57 ['Chrome Antique Brass'],110 ['Chrome Brass']
+15660f F3CF9B,68,Very Light Orange,F3CF9B,4,4,2000,2004,36 ['Light Yellowish Orange'],68 ['Very_Light_Orange'],96 ['Very Light Orange'],91 ['Very Light Orange']
+157109 907450,1021,Modulex Brown,907450,2223,36,1963,1963,,,132 ['Mx Brown'],
+158b0b B48455,178,Flat Dark Gold,B48455,99,83,2002,2007,"1001 ['Gold Metallic', 'MET.SAND.YEL']",178 ['Flat_Dark_Gold'],81 ['Flat Dark Gold'],21 ['Flat Dark Gold']
+159207 7C503A,86,Medium Brown,7C503A,149,84,2002,2006,86 ['BROWN'],86 ['Dark_Flesh'],91 ['Medium Brown'],52 ['Dark Flesh']
+15ee0f F08F1C,1052,Glitter Trans-Orange,F08F1C,1,1,2020,2020,1018 ['TR.BR:ORA W/GLI'],341 ['Glitter_Trans_Orange'],222 ['Glitter Trans-Orange'],
+15ee0f FF8014,1064,Fabuland Red,FF8014,21,14,1979,1994,13 ['Red Orange'],,,
+15ee0f FE8A18,25,Orange,FE8A18,34093,11407,1997,2022,"106 ['Bright orange', 'BR.ORANGE']",25 ['Orange'],4 ['Orange'],80 ['Orange']
+15ee0f F08F1C,182,Trans-Orange,F08F1C,10512,3364,2002,2022,"182 ['Tr. Bright Orange', 'TR. BR. ORANGE']",57 ['Trans_Orange'],98 ['Trans-Orange'],105 ['Transparent Orange']
+15ff0a A95500,484,Dark Orange,A95500,10903,3550,1994,2022,"38 ['Dark Orange', 'DK.ORA']",484 ['Dark_Orange'],68 ['Dark Orange'],54 ['Dark Orange']
+17ff0f FF800D,57,Trans-Neon Orange,FF800D,5471,1919,1993,2021,"47 ['Tr. Flu. Reddish orange', 'TR.FL.REDORA']",38 ['Trans_Neon_Orange'],18 ['Trans-Neon Orange'],161 ['Transparent Neon Reddish Orange']
+17ff0b B46A00,1063,Metallic Copper,B46A00,76,49,2017,2021,346 ['Copper Metallic'],,,
+18990f F9BA61,125,Light Orange,F9BA61,55,35,1998,2005,,125 ['Light_Orange'],32 ['Light Orange'],8 ['Light Orange']
+18990f FCB76D,1004,Trans-Flame Yellowish Orange,FCB76D,214,82,2003,2006,231 ['TR. FL. YEL ORA'],231 ['Trans_Bright_Light_Orange'],164 ['Trans Light Orange'],
+18770f F3C988,1080,Light Tan,F3C988,1,1,2006,2006,224 ['Light Brick Yellow'],,,
+18ee0f FA9C1C,366,Earth Orange,FA9C1C,156,126,1982,2006,1008 ['L.ORABROWN'],366 ['Earth_Orange'],29 ['Earth Orange'],59 ['Earth Orange']
+19db0e EF9121,1012,Fabuland Orange,EF9121,1,1,1983,1983,,,160 ['Fabuland Orange'],
+195b0e E4CD9E,19,Tan,E4CD9E,110106,25392,1958,2022,"5 ['Brick yellow', 'BRICK-YEL']",19 ['Tan'],2 ['Tan'],89 ['Tan']
+19620d DCBC81,142,Pearl Light Gold,DCBC81,22,21,2000,2006,127 ['Gold'],142 ['Pearl_Light_Gold'],61 ['Pearl Light Gold'],121 ['Pearl Light Gold']
+1bcc0a AA7F2E,297,Pearl Gold,AA7F2E,25976,8225,2002,2022,"297 ['Warm Gold', 'W.GOLD']",297 ['Pearl_Gold'],115 ['Pearl Gold'],120 ['Pearl Gold']
+1bd80d DD982E,1066,Curry,DD982E,10,6,2004,2005,180 ['Curry'],,161 ['Dark Yellow'],169 ['Curry']
+1c990a AC8247,1065,Reddish Gold,AC8247,26,20,2003,2005,"189 ['Reddish Gold', 'Gold Metallic']",189 ['Reddish_Gold'],235 ['Reddish Gold'],
+1ccc0f F8BB3D,191,Bright Light Orange,F8BB3D,14037,4941,2002,2022,"191 ['Flame yellowish orange', 'FL. YELL-ORA']",191 ['Bright_Light_Orange'],110 ['Bright Light Orange'],43 ['Bright Light Orange']
+1cff03 352100,308,Dark Brown,352100,12682,3833,2008,2022,"308 ['Dark Brown', 'DK. BROWN']",308 ['Dark_Brown'],120 ['Dark Brown'],51 ['Dark Brown']
+1cff0f FFA70B,462,Medium Orange,FFA70B,447,264,1996,2008,"105 ['Br. yellowish orange', 'BR.YELORA']",462 ['Medium_Orange'],31 ['Medium Orange'],7 ['Medium Orange']
+1ec40d DBAC34,82,Metallic Gold,DBAC34,1284,411,1997,2022,"1004 ['W.GOLD, DR.LA.']
+335 ['GOLD INK']",82 ['Metallic_Gold'],65 ['Metallic Gold'],124 ['Metallic Gold']
+204e0d DEC69C,1022,Modulex Buff,DEC69C,1626,42,1963,1963,,,133 ['Mx Buff'],
+20cc0f F2CD37,14,Yellow,F2CD37,165580,55480,1949,2022,"24 ['Bright yellow', 'BR.YEL']",14 ['Yellow'],3 ['Yellow'],93 ['Yellow']
+21dd0f F5CD2F,46,Trans-Yellow,F5CD2F,10145,3458,1969,2022,"44 ['Tr. Yellow', 'TR.YEL']",46 ['Trans_Yellow'],19 ['Trans-Yellow'],109 ['Transparent Yellow']
+22aa0f FED557,1028,Modulex Ochre Yellow,FED557,1107,18,1963,1963,,,138 ['Mx Ochre Yellow'],
+22aa0f FED557,1048,Modulex Foil Yellow,FED557,0,0,,,,,218 ['Mx Foil Yellow'],
+22ff0f F3C305,1011,Vintage Yellow,F3C305,24,4,1949,1949,,,,
+23660f FBE890,1005,Trans-Fire Yellow,FBE890,162,50,2001,2006,234 ['TR. FIRE YELL'],234 ['Trans_Fire_Yellow'],,
+23660f FBE696,18,Light Yellow,FBE696,338,184,1993,2006,3 ['Light yellow'],18 ['Light_Yellow'],33 ['Light Yellow'],9 ['Light Yellow']
+24ff0d DAB000,54,Trans-Neon Yellow,DAB000,55,21,2001,2006,157 ['Transparent Fluorescent Yellow'],54 ['Trans_Neon_Yellow'],121 ['Trans-Neon Yellow'],104 ['Transparent Neon Yellow']
+25880f FFE371,1027,Modulex Light Yellow,FFE371,8,8,1963,1963,,,137 ['Mx Light Yellow'],
+25b90b BBA53D,334,Chrome Gold,BBA53D,1379,798,1989,2021,310 ['Metalized Gold'],334 ['Chrome_Gold'],21 ['Chrome Gold'],2 ['Chrome Gold']
+27ff0e EBD800,1062,Vibrant Yellow,EBD800,196,76,2022,2022,368 ['Vibrant Yellow'],,236 ['Neon Yellow'],211 ['Vibrant Yellow']
+2a120e E6E3DA,503,Very Light Gray,E6E3DA,56,46,1997,2004,103 ['Light grey'],503 ['Very_Light_Gray'],49 ['Very Light Gray'],19 ['Very Light Gray']
+2a140d D4D5C9,21,Glow In Dark Opaque,D4D5C9,256,158,1990,2011,"50 ['Phosp. White', 'PHOS.WHITE']",21 ['Glow_In_Dark_Opaque'],46 ['Glow In Dark Opaque'],127 ['Glow in the Dark Opaque']
+2a2a06 6D6E5C,8,Dark Gray,6D6E5C,21798,7691,1978,2006,"27 ['Dark grey', 'DK.GREY']",8 ['Dark_Gray'],10 ['Dark Gray'],53 ['Dark Gray']
+2a6605 5C5030,1020,Modulex Terracotta,5C5030,1621,37,1963,1963,,,134 ['Mx Terracotta'],
+2a7109 9B9A5A,326,Olive Green,9B9A5A,5196,1286,2012,2022,"330 ['Olive Green', 'OLIVE GREEN']",330 ['Olive_Green'],155 ['Olive Green'],79 ['Olive Green']
+2a770f F8F184,42,Trans-Neon Green,F8F184,6473,2302,1988,2022,"49 ['Tr. Flu. Green', 'TR.FL.GREEN']",42 ['Trans_Neon_Green'],16 ['Trans-Neon Green'],103 ['Transparent Neon Green']
+2acc0f FFF03A,226,Bright Light Yellow,FFF03A,4220,1566,2004,2022,"226 ['Cool Yellow', 'COOL YEL.']",226 ['Bright_Light_Yellow'],103 ['Bright Light Yellow'],44 ['Bright Light Yellow']
+2acc0f FFF230,1076,Duplo Lime,FFF230,5,3,1992,1992,15 ['Lemon'],,,
+2eea0c BDC618,1029,Modulex Lemon,BDC618,22,22,1963,1963,,,139 ['Mx Lemon'],
+2fc40d C7D23C,115,Medium Lime,C7D23C,186,99,1998,2005,"115 ['Med. yellowish green', 'MD.YEL-GREEN']",115 ['Medium_Lime'],76 ['Medium Lime'],77 ['Medium Lime']
+33ff0f C0F500,1002,Glitter Trans-Neon Green,C0F500,9,8,2015,2018,339 ['TR.FL.GRE W/GLI'],339 ['Glitter_Trans_Neon_Green'],163 ['Glitter Trans-Neon Green'],167 ['Transparent Neon Green Glitter']
+34ff0e BBE90B,27,Lime,BBE90B,27244,8991,1997,2022,"119 ['Br. yellowish green', 'BR.YEL-GREEN']",27 ['Lime'],34 ['Lime'],70 ['Lime']
+35490e D9E4A7,120,Light Lime,D9E4A7,31,23,1998,2008,"120 ['Lig. yellowish green', 'L.YEL-GREEN']",120 ['Light_Lime'],35 ['Light Lime'],67 ['Light Lime']
+35490e D9E4A7,35,Trans-Bright Green,D9E4A7,2087,763,2010,2022,"311 ['Transparent Bright Green', 'TR. BR. GREEN']",35 ['Trans_Bright_Green'],108 ['Trans-Bright Green'],96 ['Transparent Bright Green']
+35490e DFEEA5,158,Yellowish Green,DFEEA5,1433,486,2012,2022,"326 ['Spring Yellow Green', 'SPR. YELL. GREE']",326 ['Yellowish_Green'],158 ['Yellowish Green'],94 ['Yellowish Green']
+357109 899B5F,81,Metallic Green,899B5F,22,12,2001,2001,200 ['Lemon Metallic'],81 ['Metallic_Green'],70 ['Metallic Green'],125 ['Metallic Green']
+396d07 6A7944,1086,Pearl Lime,6A7944,15,14,2001,2003,200 ['Lemon Metallic'],,,
+396d0e C9E788,1057,Trans-Light Bright Green,C9E788,119,48,2003,2006,"227 ['Transparent Bright Yellowish Green', 'TR. BR. YEL GR']",,226 ['Trans-Light Bright Green'],
+40270d C2DAB8,17,Light Green,C2DAB8,171,126,1992,2005,"6 ['Light green', 'L.GREEN']",17 ['Light_Green'],38 ['Light Green'],11 ['Light Green']
+402a0c BDC6AD,294,Glow In Dark Trans,BDC6AD,73,25,2005,2011,"294 ['Phosphorescent Green', 'PH.GREEN']",294 ['Glow_In_Dark_Trans'],118 ['Glow In Dark Trans'],128 ['Glow in the Dark Transparent']
+407109 7C9051,1031,Modulex Olive Green,7C9051,1111,21,1963,1963,,,140 ['Mx Olive Green'],
+40b90b 7DB538,1043,Modulex Foil Light Green,7DB538,0,0,,,,,213 ['Mx Foil Light Green'],
+40b90b 7DB538,1030,Modulex Pastel Green,7DB538,34,33,1963,1963,,,141 ['Mx Pastel Green'],
+55170b A0BCAC,378,Sand Green,A0BCAC,14033,2527,2000,2022,151 ['Sand green'],378 ['Sand_Green'],48 ['Sand Green'],18 ['Sand Green']
+551a0a 9BA19D,7,Light Gray,9BA19D,91354,24896,1954,2006,2 ['Grey'],7 ['Light_Gray'],9 ['Light Gray'],66 ['Light Gray']
+55460b 84B68D,34,Trans-Green,84B68D,4016,1900,1969,2022,"48 ['Tr. Green', 'TR.GREEN']",34 ['Trans_Green'],20 ['Trans-Green'],100 ['Transparent Green']
+55460b 84B68D,1060,Trans-Green Opal,84B68D,3,3,2021,2022,1021 ['Tr.Green Opal'],,233 ['Satin Trans-Bright Green'],207 ['Transparent Green Opal']
+55880f 78FC78,1077,Fabuland Lime,78FC78,16,15,1982,1986,14 ['Pastel Green'],,,
+558e09 4B9F4A,10,Bright Green,4B9F4A,11797,3916,1949,2022,"37 ['Bright Green', 'BR.GREEN']",10 ['Bright_Green'],36 ['Bright Green'],41 ['Bright Green']
+55d406 1E601E,1009,Vintage Green,1E601E,32,8,1949,1949,,,,
+55ff06 006400,1042,Modulex Foil Dark Green,6400,0,0,,,,,212 ['Mx Foil Dark Green'],
+5e5b0e 94E5AB,1058,Trans-Light Green,94E5AB,36,14,2005,2006,285 ['Transparent Light Green'],285 ['TranS_Light_Green'],221 ['Trans-Light Green'],
+5e740b 60BA76,1079,Duplo Light Green,60BA76,0,0,,,233 ['Light Faded Green'],,,
+608008 468A5F,1078,Duplo Medium Green,468A5F,1,1,2003,2003,210 ['Faded Green'],,,
+65ff08 008E3C,1071,Pearl Green,008E3C,20,14,2003,2006,"186 ['Metallic Dark Green', 'MET. DK. GREEN']",186 ['Metallic_Dark_Green'],,183 ['Pearl Green']
+66b607 237841,2,Green,237841,60514,18761,1949,2022,"28 ['Dark green', 'DK.GREEN']",2 ['Green'],6 ['Green'],61 ['Green']
+6a760d 73DCA1,74,Medium Green,73DCA1,402,291,1994,2005,"29 ['Medium green', 'MD.GREEN']",74 ['Medium_Green'],37 ['Medium Green'],10 ['Medium Green']
+6ab90b 3CB371,62,Chrome Green,3CB371,2,2,1999,1999,,62 ['Chrome_Green'],64 ['Chrome Green'],113 ['Chrome Green']
+71bf04 184632,288,Dark Green,184632,12444,3302,1999,2022,"141 ['Earth Green', 'EARTH GREEN']",288 ['Dark_Green'],80 ['Dark Green'],20 ['Dark Green']
+78bf08 27867E,1032,Modulex Aqua Green,27867E,16,16,1963,1963,,,142 ['Mx Aqua Green'],
+801a0a 9CA3A8,135,Pearl Light Gray,9CA3A8,3932,1714,1998,2019,"179 ['Silver flip/flop', 'SILVER']
+131 ['Silver']",135 ['Pearl_Light_Gray'],66 ['Pearl Light Gray'],122 ['Pearl Light Gray']
+80270d B3D7D1,118,Aqua,B3D7D1,320,129,1998,2006,"118 ['Light bluish green', 'L.BLUE-GREEN']",118 ['Aqua'],41 ['Aqua'],13 ['Aqua']
+802a0c ADC3C0,323,Light Aqua,ADC3C0,4025,1381,2011,2022,323 ['Aqua'],323 ['Light_Aqua'],152 ['Light Aqua'],62 ['Light Aqua']
+80490e AEEFEC,41,Trans-Light Blue,AEEFEC,21556,6578,1985,2022,"42 ['Tr. Lg blue', 'TR.L.BLUE', '1.MULT']",43 ['Trans_Medium_Blue'],15 ['Trans-Light Blue'],101 ['Transparent Light Blue']
+80800a 55A5AF,11,Light Turquoise,55A5AF,138,75,1998,2004,"116 ['Med. bluish green', 'MD.BL-GREEN']",11 ['Light_Turquoise'],40 ['Light Turquoise'],12 ['Light Turquoise']
+80ff01 05131D,132,Speckle Black-Silver,05131D,224,89,2005,2013,"132 ['Black Glitter', 'CO.SILVER DIF']",132 ['Speckle_Black_Silver'],111 ['Speckle Black-Silver'],24 ['Speckle Black']
+80ff01 05131D,0,Black,05131D,569623,161061,1957,2022,"26 ['Black', 'BLACK']
+1012 ['CONDUCT. BLACK']","0 ['Black']
+256 ['Rubber_Black']",11 ['Black'],38 ['Black']
+80ff01 05131D,133,Speckle Black-Gold,05131D,5,5,2010,2011,,133 ['Speckle_Black_Gold'],151 ['Speckle Black-Gold'],35 ['Speckle Black Gold']
+80ff01 05131D,75,Speckle Black-Copper,05131D,10,7,2006,2006,75 ['COP. DIF.'],75 ['Speckle_Black_Copper'],116 ['Speckle Black-Copper'],133 ['Speckle Black Copper']
+84ff09 008F9B,3,Dark Turquoise,008F9B,9023,2249,1998,2022,"107 ['Bright bluish green', 'BR.BLUEGREEN']",3 ['Dark_Turquoise'],39 ['Dark Turquoise'],58 ['Dark Turquoise']
+859d0d 5AC4DA,1051,Pastel Blue,5AC4DA,727,94,2005,2011,"11 ['Pastel Blue', 'PASTBLU']",,72 ['Maersk Blue'],
+85b90b 36AEBF,322,Medium Azure,36AEBF,14039,4945,2012,2022,"322 ['Medium Azure', 'MEDIUM AZUR']",322 ['Medium_Azure'],156 ['Medium Azure'],73 ['Medium Azure']
+87800c 68BCC5,1003,Glitter Trans-Light Blue,68BCC5,82,37,2015,2021,"302 ['PCTR LI.BLUE W/', '4.MULT', 'TR LI.BLUE W/']",302 ['Glitter_Trans_Light_Blue'],162 ['Glitter Trans-Light Blue'],165 ['Transparent Light Blue Glitter']
+87800c 68BCC5,1053,Trans-Blue Opal,68BCC5,308,71,2020,2022,"362 ['Transparent Blue Opal', 'TR. BLUE OPAL']",362 ['Opal_Trans_Light_Blue'],223 ['Satin Trans-Light Blue'],175 ['Transparent Blue Opal']
+87ff0b 039CBD,1008,Vintage Blue,039CBD,24,4,1949,1949,,,,
+8a8008 467083,1033,Modulex Teal Blue,467083,1104,15,1963,1963,,,146 ['Mx Teal Blue'],
+8ab90b 3E95B6,1075,Duplo Medium Blue,3E95B6,0,0,,,269 ['Tiny-Medium Blue'],,,
+8aff0c 009ECE,1074,Duplo Blue,009ECE,4,4,2003,2004,188 ['Tiny Blue'],,,
+8e330f CFE2F7,143,Trans-Medium Blue,CFE2F7,736,255,2001,2018,"143 ['Tr. Flu. Blue', 'TR.FL. BLUE']",41 ['Trans_Medium_Blue'],74 ['Trans-Medium Blue'],102 ['Transparent Medium Blue']
+8e370e B4D2E3,9,Light Blue,B4D2E3,72,56,1995,2007,45 ['Light blue'],9 ['Light_Blue'],62 ['Light Blue'],63 ['Light Blue']
+8e760d 7DBFDD,232,Sky Blue,7DBFDD,115,48,2003,2007,"232 ['Dove blue', 'DO. BLUE']",232 ['Sky_Blue'],87 ['Sky Blue'],88 ['Sky Blue']
+8e800c 68AECE,1045,Modulex Foil Light Blue,68AECE,0,0,,,,,215 ['Mx Foil Light Blue'],
+8e800c 68AECE,1036,Modulex Pastel Blue,68AECE,18,18,1963,1963,,,145 ['Mx Pastel Blue'],
+8ebf0c 3592C3,313,Maersk Blue,3592C3,469,101,1974,2006,,313 ['Maersk_Blue'],72 ['Maersk Blue'],71 ['Maersk Blue']
+8eff0c 078BC9,321,Dark Azure,078BC9,7114,2649,2011,2022,321 ['Dark Azur'],321 ['Dark_Azure'],153 ['Dark Azure'],47 ['Dark Azure']
+915b0e 9FC3E9,212,Bright Light Blue,9FC3E9,2341,933,2004,2022,"212 ['Light Royal blue', 'LGH. ROY. BLUE']",212 ['Bright_Light_Blue'],105 ['Bright Light Blue'],42 ['Bright Light Blue']
+91740b 6C96BF,61,Chrome Blue,6C96BF,25,16,1998,2006,,61 ['Chrome_Blue'],52 ['Chrome Blue'],112 ['Chrome Blue']
+952a0c AfB5C7,1014,Modulex Light Bluish Gray,AfB5C7,10,10,1963,1963,,,124 ['Mx Light Bluish Gray'],
+95440f B4D4F7,1006,Trans-Light Royal Blue,B4D4F7,100,54,2001,2005,"293 ['TR. L.ROYAL BLUE', 'TR.L.ROYAL BLUE']",293 ['Trans_Light_Blue_Violet'],,
+959d0d 5A93DB,73,Medium Blue,5A93DB,11567,3086,1984,2022,"102 ['Medium blue', 'MD.BLUE']",73 ['Medium_Blue'],42 ['Medium Blue'],14 ['Medium Blue']
+95aa03 1B2A34,64,Chrome Black,1B2A34,7,7,2008,2020,,64 ['Chrome_Black'],122 ['Chrome Black'],111 ['Chrome Black']
+95ff02 0A1327,1073,Pearl Black,0A1327,30,17,2003,2006,"149 ['Metallic Black', 'MET.BLACK']",83 ['Metallic_Black'],,185 ['Pearl Black']
+95ff06 0A3463,272,Dark Blue,0A3463,29217,8451,1997,2022,140 ['Earth blue'],272 ['Dark_Blue'],63 ['Dark Blue'],48 ['Dark Blue']
+95ff0a 0057A6,1034,Modulex Tile Blue,0057A6,80,80,1963,1963,,,143 ['Mx Tile Blue'],
+95ff0a 0057A6,1044,Modulex Foil Dark Blue,0057A6,0,0,,,,,214 ['Mx Foil Dark Blue'],
+95ff0a 0059A3,1070,Pearl Blue,0059A3,21,16,2003,2009,"185 ['Metallic Bright Blue', 'MET. BR. BLUE']",,,189 ['Pearl Blue']
+97ff0b 0055BF,1,Blue,0055BF,161373,40137,1949,2022,"23 ['Bright Blue', 'BR.BLUE']",1 ['Blue'],7 ['Blue'],39 ['Blue']
+97990f 61AFFF,1035,Modulex Medium Blue,61AFFF,7,7,1963,1963,,,144 ['Mx Medium Blue'],
+9c330f C1DFF0,43,Trans-Very Lt Blue,C1DFF0,233,77,2003,2006,"229 ['Transparent Light Bluish Green', 'TR. LGH. BL. GR']",39 ['Trans_Light_Blue'],113 ['Trans-Aqua'],25 ['Transparent Very Light Blue']
+9c4c0a 7988A1,137,Metal Blue,7988A1,121,52,2002,2006,"145 ['Sand blue metallic']
+137 ['Metal Blue', 'MET.SAND.BLU']",137 ['Metal_Blue'],78 ['Metal Blue'],118 ['Metallic Blue']
+9f660a 6074A1,379,Sand Blue,6074A1,4694,1528,2001,2022,135 ['Sand blue'],379 ['Sand_Blue'],55 ['Sand Blue'],85 ['Sand Blue']
+a1b10d 4C61DB,89,Royal Blue,4C61DB,0,0,,,195 ['R. BLUE'],89 ['Blue_Violet'],,
+a2ff0a 0020A0,1061,Trans-Dark Blue Opal,0020A0,30,10,2021,2022,1019 ['Tr.Blue Opal'],,232 ['Satin Trans-Dark Blue'],209 ['Transparent Dark Blue Opal']
+a2ff0a 0020A0,33,Trans-Dark Blue,0020A0,8916,2824,1965,2022,"43 ['Tr. Blue', 'TR.BLUE']",33 ['Trans_Dark_Blue'],14 ['Trans-Dark Blue'],98 ['Transparent Dark Blue']
+a3800c 6874CA,112,Blue-Violet,6874CA,186,65,2004,2005,"112 ['Medium Bluish Violet', 'ML.BLUEVIOL']",112 ['Medium_Violet'],97 ['Blue-Violet'],40 ['Royal Blue']
+a3990a 4354A3,110,Violet,4354A3,195,123,1999,2008,"110 ['Bright Bluish Violet', 'BR.BLUEVIOL']
+1009 ['LILAC']",110 ['Violet'],43 ['Violet'],15 ['Violet']
+a5d10b 2032B0,23,Dark Blue-Violet,2032B0,7,7,2004,2006,"196 ['Dark Royal blue', 'DK. R.BLUE']",23 ['Dark_Blue_Violet'],109 ['Dark Blue-Violet'],49 ['Dark Royal Blue']
+aa170b A5A9B4,80,Metallic Silver,A5A9B4,2775,968,1957,2022,"298 ['Cool silver']
+1002 ['C.SILVER, DR. L']
+1015 ['C.SILVER']
+296 ['Cool silver']
+336 ['SILVER INK']",80 ['Metallic_Silver'],67 ['Metallic Silver'],126 ['Metallic Silver']
+aa240e C9CAE2,20,Light Violet,C9CAE2,184,122,1994,2005,"39 ['Light bluish violet', 'L.BLUEVIOL']",20 ['Light_Violet'],44 ['Light Violet'],16 ['Light Violet']
+aa2a06 595D60,1016,Modulex Charcoal Gray,595D60,2,2,1963,1963,,,126 ['Mx Charcoal Gray'],
+aa2a06 595D60,1040,Modulex Foil Dark Gray,595D60,0,0,,,,,210 ['Mx Foil Dark Gray'],
+aa2a0c A5A5CB,52,Trans-Purple,A5A5CB,1965,707,2000,2022,"126 ['Tr. Bright bluish violet', 'TR.KL.BL.VIO']
+236 ['TR. BR. RED. LI']",52 ['Trans_Purple'],51 ['Trans-Purple'],107 ['Transparent Purple']
+aa2a0c A5A5CB,129,Glitter Trans-Purple,A5A5CB,114,56,2000,2022,"129 ['Tr. Bright Bluish Violet w. Glitter 2%', 'TR.BR.BL.V.G']",129 ['Glitter_Trans_Purple'],102 ['Glitter Trans-Purple'],22 ['Transparent Purple Glitter']
+aa3305 4D4C52,1018,Modulex Black,4D4C52,2486,298,1963,1963,,,128 ['Mx Black'],
+aa5b0e 9391E4,1001,Medium Violet,9.39E+07,45,38,1999,2005,"219 ['Lilac']
+112 ['Medium Bluish Violet']","219 ['Lilac']
+112 ['Medium_Violet']",73 ['Medium Violet'],78 ['Medium Violet']
+aaaa09 3F3691,85,Dark Purple,3F3691,10230,3886,2000,2022,"268 ['Medium Lilac', 'M. LILAC']",85 ['Dark_Purple'],89 ['Dark Purple'],55 ['Dark Purple']
+bfff08 4B0082,1046,Modulex Foil Violet,4B0082,0,0,,,,,216 ['Mx Foil Violet'],
+c6d10b 8320B7,1059,Trans-Purple Opal,8320B7,5,5,2020,2020,1020 ['Tr.Violet Opal'],,230 ['Satin Trans-Purple'],203 ['Transparent Purple Opal']
+ca5d0b AC78BA,30,Medium Lavender,AC78BA,4654,1844,2011,2022,"324 ['Medium Lavender', 'MEDIUM LAVENDEL']",30 ['Medium_Lavender'],157 ['Medium Lavender'],76 ['Medium Lavender']
+ca7109 8E5597,1007,Reddish Lilac,8E5597,49,22,2004,2005,218 ['RED. LILAC'],218 ['Medium Purple'],227 ['Clikits Lavender'],
+d4120e E1D5ED,31,Lavender,E1D5ED,3300,1002,2011,2022,325 ['Lavender'],31 ['Lavender'],154 ['Lavender'],36 ['Lavender']
+d43909 96709F,236,Trans-Light Purple,96709F,68,35,2000,2006,"284 ['TR. RED-LILAC', 'TR. RE-LILAC']","44 ['Trans_Light_Purple']
+284 ['Trans_Light_Purple']",114 ['Trans-Light Purple'],26 ['Transparent Light Purple']
+d46008 845E84,373,Sand Purple,8.45E+86,72,20,2001,2003,136 ['Sand violet'],373 ['Sand_Purple'],54 ['Sand Purple'],86 ['Sand Purple']
+daff08 81007B,22,Purple,81007B,1011,345,1996,2006,"104 ['Bright violet', 'BR. VIOLET']",22 ['Purple'],24 ['Purple'],4 ['Purple']
+e0ea0c CE1D9B,1054,Trans-Medium Reddish Violet Opal,CE1D9B,25,18,2020,2022,"362 ['Transparent Medium Reddish Violet with Opalescence', 'Tr.M.Violet 
+Opa']",364 ['Opal_Trans_Dark_Pink'],224 ['Satin Trans-Dark Pink'],199 ['Transparent Dark Pink Opal']
+e3990a AA4D8E,63,Chrome Pink,AA4D8E,40,26,2001,2018,,63 ['Chrome_Pink'],82 ['Chrome Pink'],114 ['Chrome Pink']
+e3aa09 923978,26,Magenta,923978,7517,2858,2000,2022,"124 ['Bright reddish violet', 'BR.RED-VIOL.']",26 ['Magenta'],71 ['Magenta'],72 ['Magenta']
+e66a0c C870A0,5,Dark Pink,C870A0,7960,2751,2004,2022,"221 ['Bright Purple', 'BR. PURPLE']",5 ['Dark_Pink'],47 ['Dark Pink'],17 ['Dark Pink']
+ea490e E4ADC8,29,Bright Pink,E4ADC8,9017,3040,2003,2022,"222 ['Light Purple', 'LGH. PURPLE']",29 ['Bright_Pink'],104 ['Bright Pink'],45 ['Bright Pink']
+ea490e E4ADC8,230,Trans-Pink,E4ADC8,432,171,2000,2006,230 ['TR. BR. PURPLE'],45 ['Trans_Pink'],107 ['Trans-Pink'],106 ['Transparent Pink']
+ea800c CD6298,69,Light Purple,CD6298,82,37,2003,2007,"198 ['Bright Reddish Lilac', 'BR. RED. LILAC']",69 ['Light_Purple'],93 ['Light Purple'],69 ['Light Purple']
+ea880f FE78B0,1082,Clikits Pink,FE78B0,33,10,2006,2006,295 ['Flamingo Pink'],,,
+ed770f F785B1,351,Medium Dark Pink,F785B1,1013,556,1994,2004,"22 ['Medium Reddish Violet', 'MD.REDVIOL']",351 ['Medium_Dark_Pink'],94 ['Medium Dark Pink'],75 ['Medium Dark Pink']
+ed770f F785B1,1038,Modulex Pink,F785B1,17,17,1963,1963,,,148 ['Mx Pink'],
+ed890d DF6695,114,Glitter Trans-Dark Pink,DF6695,228,46,1999,2021,"114 ['Tr. Medium Reddish-Violet w. Glitter 2%', 'TR.M.R.V.GLI']",114 ['Glitter_Trans_Dark_Pink'],100 ['Glitter Trans-Dark Pink'],132 ['Transparent Pink Glitter']
+ed890d DF6695,45,Trans-Dark Pink,DF6695,3696,1345,1998,2022,"113 ['Tr. Medi. reddish violet', 'TR.ML.R.VIOL']",37 ['Trans_Dark_Pink'],50 ['Trans-Dark Pink'],99 ['Transparent Dark Pink']
+f45d0b BD7D85,1037,Modulex Violet,BD7D85,7,7,1963,1963,,,147 ['Mx Violet'],
+f6990f FF698F,1050,Coral,FF698F,2593,534,2019,2022,1017 ['CORAL'],353 ['Coral'],220 ['Coral'],
+f8660f FC97AC,13,Pink,FC97AC,611,306,1991,2006,1007 ['L.REDVIOL'],13 ['Pink'],23 ['Pink'],3 ['Pink']
+f8ff0d D60026,1069,Pearl Red,D60026,21,13,2003,2006,"184 ['Metallic Bright Red', 'MET. BR. RED']",184 ['Metallic_Bright_Red'],,181 ['Pearl Red']
+f9770f FF879C,1087,Duplo Pink,FF879C,59,27,1992,1993,16 ['Pink'],,,
